@@ -1,8 +1,7 @@
 
 ## Overview
 
-Ye project ek **multiplayer card game** hai jo Unity aur PlayerIO pe based hai. Players ke paas decks hote hain,
-cards ko hand me draw karte hain, play karte hain aur energy system ke basis pe turn-by-turn gameplay hota hai.
+PlayerIO and Unity 
 ## Project Structure
 
 PlayerIOManager:- 
