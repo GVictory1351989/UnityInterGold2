@@ -1,0 +1,12 @@
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CoreCompileInputs.cache
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\MushroomsUnity3DExample.dll
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\MushroomsUnity3DExample.pdb
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.AssemblyReference.cache
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CopyComplete
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+E:\VictoryGames\Clients\Servercode\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb

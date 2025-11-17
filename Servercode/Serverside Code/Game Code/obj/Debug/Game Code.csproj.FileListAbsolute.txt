@@ -1,0 +1,9 @@
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\bin\Debug\MushroomsUnity3DExample.dll
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\bin\Debug\MushroomsUnity3DExample.pdb
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\obj\Debug\MushroomsUnity3DExample.dll
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\obj\Debug\MushroomsUnity3DExample.pdb
+E:\VictoryGames\Clients\Servercode\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
