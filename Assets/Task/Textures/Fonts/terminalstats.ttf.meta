@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 50a7d0d6446d8f8479f039cab674d2f6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Terminalstats
+  fontNames:
+  - Terminalstats
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a33ff801fe2090646a2618ab319fda03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
